@@ -7,4 +7,4 @@ Note that some programs may output nothing - this was intentional because of the
 To compile any program, first clone the repository.
 Next, use a terminal/console and change directory into the respective program you wish to try.
 If using GCC, it is as simple as using:
-g++ -g -o bin main.cpp
+> g++ -g -o bin main.cpp
